@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        style="@style/my_style"
+        android:text="aaaa" />
+
+    <TextView
+        style="@style/my_style"
+        android:text="bbb" />
+
+    <TextView
+        style="@style/my_style"
+        android:text="ccc" />
+
+    <TextView
+        style="@style/my_style"
+        android:text="ddd" />
+
+</LinearLayout>

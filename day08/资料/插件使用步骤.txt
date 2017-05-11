@@ -1,0 +1,5 @@
+
+1 把插件拷贝到你自己eclipse的plugin目录里
+
+2  重启eclipse 
+
